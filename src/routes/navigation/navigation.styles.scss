@@ -1,0 +1,14 @@
+.navigation {
+  width: 90vw;
+  margin: 2rem auto;
+  display: flex;
+  justify-content: center;
+  .links {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+  .link {
+    color: inherit;
+  }
+}

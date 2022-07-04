@@ -1,0 +1,13 @@
+#home {
+  min-height: 70vh;
+  display: grid;
+  place-items: center;
+}
+
+.gradient-text {
+  background: linear-gradient(90deg,#ff8b0a, #ee3190);
+  text-shadow: none;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
